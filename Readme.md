@@ -1,4 +1,4 @@
-# This the sourace code for Transfer Learning in Latent Space: Theory and Application（TLLS）
+# This the sourace code for Transfer Learning in Latent Space: Theory and Application（TLLT）
 
 This responsity contains the implamentation of TLLS, which contains two subexperments: Control experiments and Baselines comparisons. Each subexperments has same process: Firstlt, learn the shared representation on source domain. Secondly, learn the density ratio function for the latent varables of source and target doamins. Lastly, we learn the predictor and test is performance.
 
